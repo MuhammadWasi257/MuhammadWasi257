@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Muhammad Wasi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me muhammadwasi2006@gmail.com
